@@ -1,0 +1,53 @@
+{
+	"name": "objmc",
+	"title": "Objmc",
+	"version": "1.0.0",
+	"authors": [
+		{
+			"name": "Godlander",
+			"email": "godlanderp@gmail.com",
+			"url": "https://github.com/Godlander"
+		},
+		{
+			"name": "SnaveSutit",
+			"email": "snavesutit@gmail.com",
+			"url": "https://discordapp.com/users/213746232923783168"
+		},
+		{
+			"name": "Fetchbot",
+			"url": "https://github.com/IanSSenne"
+		}
+	],
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/Godlander/objmc"
+	},
+	"description": "A tool that allows .obj models to be imported into Vanilla Minecraft using core shaders.",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"private": true,
+	"bin": {
+		"objmc": "./dist/index.js"
+	},
+	"files": [
+		"dist",
+		"types"
+	],
+	"scripts": {
+		"objmc": "node ./dist/index.js",
+		"dev": "node ./tools/esbuild.js --mode=dev",
+		"build": "node ./tools/esbuild.js && tsc",
+		"lint": "prettier --write ."
+	},
+	"devDependencies": {
+		"@types/node": "^18.11.18",
+		"@types/terminal-kit": "^2.5.1",
+		"esbuild": "^0.17.3",
+		"prettier": "^2.5.1",
+		"typescript": "^4.5.5"
+	},
+	"dependencies": {
+		"chokidar": "^3.5.3",
+		"terminal-kit": "^3.0.0"
+	}
+}
