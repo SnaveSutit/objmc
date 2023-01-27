@@ -134,6 +134,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.18.tgz#8dfb97f0da23c2293e554c5a50d61ef134d7697f"
   integrity sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA==
 
+"@types/obj-file-parser@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@types/obj-file-parser/-/obj-file-parser-0.5.0.tgz#0e96cdc6828dbc18039be8e9666f3da6b6b6ef4b"
+  integrity sha512-NvpzqBxGxSn832ikf0oXNJPK1Ee+3DCyKLyQakPUVZUtg7Ax+OdQOkkEJeYSNvEjqFxbwWwd8irMcUeRZEs8kA==
+
 "@types/terminal-kit@^2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@types/terminal-kit/-/terminal-kit-2.5.1.tgz#63c87008f6ead869cbbf94dd55efcdf862318b2c"
@@ -309,6 +314,11 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
+
+obj-file-parser@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/obj-file-parser/-/obj-file-parser-0.6.2.tgz#a04607540e4b0c92234bfe9b8da364efb7ea201f"
+  integrity sha512-eATpidA23O619wNjAcrve3WkNQ0vSTLiPSR8DLjPXrguD1DsN0/S49EMAI1T3wzhUD0aLGIiAZXLnWjORGOlng==
 
 omggif@^1.0.10:
   version "1.0.10"

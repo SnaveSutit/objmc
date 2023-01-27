@@ -1,0 +1,4201 @@
+{
+	"models": [
+		{
+			"name": "body",
+			"vertices": [
+				{
+					"x": 0.125,
+					"y": 0.75,
+					"z": 0.25
+				},
+				{
+					"x": 0.125,
+					"y": 0.6875,
+					"z": 0.25
+				},
+				{
+					"x": 0.125,
+					"y": 0.75,
+					"z": 0.625
+				},
+				{
+					"x": 0.125,
+					"y": 0.6875,
+					"z": 0.625
+				},
+				{
+					"x": -0.125,
+					"y": 0.6875,
+					"z": 0.25
+				},
+				{
+					"x": -0.125,
+					"y": 0.75,
+					"z": 0.25
+				},
+				{
+					"x": -0.125,
+					"y": 0.6875,
+					"z": 0.625
+				},
+				{
+					"x": -0.125,
+					"y": 0.75,
+					"z": 0.625
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.890625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.828125,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.828125,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.890625,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.90625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.890625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.890625,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.90625,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.96875,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.90625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.90625,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.96875,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.828125,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.8125,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.8125,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.828125,
+					"v": 0.78125,
+					"w": 0
+				},
+				{
+					"u": 0.828125,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.890625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.890625,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.828125,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.890625,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.953125,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.953125,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.890625,
+					"v": 0.96875,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": -1,
+					"z": -2.220446049250313e-16
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 2.220446049250313e-16
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 2.220446049250313e-16,
+					"z": -1
+				},
+				{
+					"x": 0,
+					"y": -2.220446049250313e-16,
+					"z": 1
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 7,
+							"textureCoordsIndex": 3,
+							"vertexNormalIndex": 1
+						},
+						{
+							"vertexIndex": 5,
+							"textureCoordsIndex": 2,
+							"vertexNormalIndex": 1
+						},
+						{
+							"vertexIndex": 2,
+							"textureCoordsIndex": 1,
+							"vertexNormalIndex": 1
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 4,
+							"textureCoordsIndex": 4,
+							"vertexNormalIndex": 1
+						},
+						{
+							"vertexIndex": 7,
+							"textureCoordsIndex": 3,
+							"vertexNormalIndex": 1
+						},
+						{
+							"vertexIndex": 2,
+							"textureCoordsIndex": 1,
+							"vertexNormalIndex": 1
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 4,
+							"textureCoordsIndex": 7,
+							"vertexNormalIndex": 2
+						},
+						{
+							"vertexIndex": 2,
+							"textureCoordsIndex": 6,
+							"vertexNormalIndex": 2
+						},
+						{
+							"vertexIndex": 1,
+							"textureCoordsIndex": 5,
+							"vertexNormalIndex": 2
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 3,
+							"textureCoordsIndex": 8,
+							"vertexNormalIndex": 2
+						},
+						{
+							"vertexIndex": 4,
+							"textureCoordsIndex": 7,
+							"vertexNormalIndex": 2
+						},
+						{
+							"vertexIndex": 1,
+							"textureCoordsIndex": 5,
+							"vertexNormalIndex": 2
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 3,
+							"textureCoordsIndex": 11,
+							"vertexNormalIndex": 3
+						},
+						{
+							"vertexIndex": 1,
+							"textureCoordsIndex": 10,
+							"vertexNormalIndex": 3
+						},
+						{
+							"vertexIndex": 6,
+							"textureCoordsIndex": 9,
+							"vertexNormalIndex": 3
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 8,
+							"textureCoordsIndex": 12,
+							"vertexNormalIndex": 3
+						},
+						{
+							"vertexIndex": 3,
+							"textureCoordsIndex": 11,
+							"vertexNormalIndex": 3
+						},
+						{
+							"vertexIndex": 6,
+							"textureCoordsIndex": 9,
+							"vertexNormalIndex": 3
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 8,
+							"textureCoordsIndex": 15,
+							"vertexNormalIndex": 4
+						},
+						{
+							"vertexIndex": 6,
+							"textureCoordsIndex": 14,
+							"vertexNormalIndex": 4
+						},
+						{
+							"vertexIndex": 5,
+							"textureCoordsIndex": 13,
+							"vertexNormalIndex": 4
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 7,
+							"textureCoordsIndex": 16,
+							"vertexNormalIndex": 4
+						},
+						{
+							"vertexIndex": 8,
+							"textureCoordsIndex": 15,
+							"vertexNormalIndex": 4
+						},
+						{
+							"vertexIndex": 5,
+							"textureCoordsIndex": 13,
+							"vertexNormalIndex": 4
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 1,
+							"textureCoordsIndex": 19,
+							"vertexNormalIndex": 5
+						},
+						{
+							"vertexIndex": 2,
+							"textureCoordsIndex": 18,
+							"vertexNormalIndex": 5
+						},
+						{
+							"vertexIndex": 5,
+							"textureCoordsIndex": 17,
+							"vertexNormalIndex": 5
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 6,
+							"textureCoordsIndex": 20,
+							"vertexNormalIndex": 5
+						},
+						{
+							"vertexIndex": 1,
+							"textureCoordsIndex": 19,
+							"vertexNormalIndex": 5
+						},
+						{
+							"vertexIndex": 5,
+							"textureCoordsIndex": 17,
+							"vertexNormalIndex": 5
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 4,
+							"textureCoordsIndex": 23,
+							"vertexNormalIndex": 6
+						},
+						{
+							"vertexIndex": 3,
+							"textureCoordsIndex": 22,
+							"vertexNormalIndex": 6
+						},
+						{
+							"vertexIndex": 8,
+							"textureCoordsIndex": 21,
+							"vertexNormalIndex": 6
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 7,
+							"textureCoordsIndex": 24,
+							"vertexNormalIndex": 6
+						},
+						{
+							"vertexIndex": 4,
+							"textureCoordsIndex": 23,
+							"vertexNormalIndex": 6
+						},
+						{
+							"vertexIndex": 8,
+							"textureCoordsIndex": 21,
+							"vertexNormalIndex": 6
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "head",
+			"vertices": [
+				{
+					"x": 0.25,
+					"y": 1.5,
+					"z": -0.5
+				},
+				{
+					"x": 0.25,
+					"y": 1.5,
+					"z": -0.875
+				},
+				{
+					"x": 0.25,
+					"y": 1.0000000000000002,
+					"z": -0.5
+				},
+				{
+					"x": 0.25,
+					"y": 1.0000000000000002,
+					"z": -0.875
+				},
+				{
+					"x": -0.25,
+					"y": 1.5,
+					"z": -0.875
+				},
+				{
+					"x": -0.25,
+					"y": 1.5,
+					"z": -0.5
+				},
+				{
+					"x": -0.25,
+					"y": 1.0000000000000002,
+					"z": -0.875
+				},
+				{
+					"x": -0.25,
+					"y": 1.0000000000000002,
+					"z": -0.5
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.21875,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.09375,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.09375,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.21875,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.3125,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.21875,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.21875,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.3125,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.3125,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.3125,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.09375,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.09375,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.09375,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.21875,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.21875,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.09375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.21875,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.34375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.34375,
+					"v": 0.8125,
+					"w": 0
+				},
+				{
+					"u": 0.21875,
+					"v": 0.8125,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -1,
+					"z": 0
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 15,
+							"textureCoordsIndex": 27,
+							"vertexNormalIndex": 7
+						},
+						{
+							"vertexIndex": 13,
+							"textureCoordsIndex": 26,
+							"vertexNormalIndex": 7
+						},
+						{
+							"vertexIndex": 10,
+							"textureCoordsIndex": 25,
+							"vertexNormalIndex": 7
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 12,
+							"textureCoordsIndex": 28,
+							"vertexNormalIndex": 7
+						},
+						{
+							"vertexIndex": 15,
+							"textureCoordsIndex": 27,
+							"vertexNormalIndex": 7
+						},
+						{
+							"vertexIndex": 10,
+							"textureCoordsIndex": 25,
+							"vertexNormalIndex": 7
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 12,
+							"textureCoordsIndex": 31,
+							"vertexNormalIndex": 8
+						},
+						{
+							"vertexIndex": 10,
+							"textureCoordsIndex": 30,
+							"vertexNormalIndex": 8
+						},
+						{
+							"vertexIndex": 9,
+							"textureCoordsIndex": 29,
+							"vertexNormalIndex": 8
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 11,
+							"textureCoordsIndex": 32,
+							"vertexNormalIndex": 8
+						},
+						{
+							"vertexIndex": 12,
+							"textureCoordsIndex": 31,
+							"vertexNormalIndex": 8
+						},
+						{
+							"vertexIndex": 9,
+							"textureCoordsIndex": 29,
+							"vertexNormalIndex": 8
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 11,
+							"textureCoordsIndex": 35,
+							"vertexNormalIndex": 9
+						},
+						{
+							"vertexIndex": 9,
+							"textureCoordsIndex": 34,
+							"vertexNormalIndex": 9
+						},
+						{
+							"vertexIndex": 14,
+							"textureCoordsIndex": 33,
+							"vertexNormalIndex": 9
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 16,
+							"textureCoordsIndex": 36,
+							"vertexNormalIndex": 9
+						},
+						{
+							"vertexIndex": 11,
+							"textureCoordsIndex": 35,
+							"vertexNormalIndex": 9
+						},
+						{
+							"vertexIndex": 14,
+							"textureCoordsIndex": 33,
+							"vertexNormalIndex": 9
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 16,
+							"textureCoordsIndex": 39,
+							"vertexNormalIndex": 10
+						},
+						{
+							"vertexIndex": 14,
+							"textureCoordsIndex": 38,
+							"vertexNormalIndex": 10
+						},
+						{
+							"vertexIndex": 13,
+							"textureCoordsIndex": 37,
+							"vertexNormalIndex": 10
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 15,
+							"textureCoordsIndex": 40,
+							"vertexNormalIndex": 10
+						},
+						{
+							"vertexIndex": 16,
+							"textureCoordsIndex": 39,
+							"vertexNormalIndex": 10
+						},
+						{
+							"vertexIndex": 13,
+							"textureCoordsIndex": 37,
+							"vertexNormalIndex": 10
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 9,
+							"textureCoordsIndex": 43,
+							"vertexNormalIndex": 11
+						},
+						{
+							"vertexIndex": 10,
+							"textureCoordsIndex": 42,
+							"vertexNormalIndex": 11
+						},
+						{
+							"vertexIndex": 13,
+							"textureCoordsIndex": 41,
+							"vertexNormalIndex": 11
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 14,
+							"textureCoordsIndex": 44,
+							"vertexNormalIndex": 11
+						},
+						{
+							"vertexIndex": 9,
+							"textureCoordsIndex": 43,
+							"vertexNormalIndex": 11
+						},
+						{
+							"vertexIndex": 13,
+							"textureCoordsIndex": 41,
+							"vertexNormalIndex": 11
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 12,
+							"textureCoordsIndex": 47,
+							"vertexNormalIndex": 12
+						},
+						{
+							"vertexIndex": 11,
+							"textureCoordsIndex": 46,
+							"vertexNormalIndex": 12
+						},
+						{
+							"vertexIndex": 16,
+							"textureCoordsIndex": 45,
+							"vertexNormalIndex": 12
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 15,
+							"textureCoordsIndex": 48,
+							"vertexNormalIndex": 12
+						},
+						{
+							"vertexIndex": 12,
+							"textureCoordsIndex": 47,
+							"vertexNormalIndex": 12
+						},
+						{
+							"vertexIndex": 16,
+							"textureCoordsIndex": 45,
+							"vertexNormalIndex": 12
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "head",
+			"vertices": [
+				{
+					"x": -0.25,
+					"y": 1.5625,
+					"z": -0.6875
+				},
+				{
+					"x": -0.25,
+					"y": 1.5625,
+					"z": -0.75
+				},
+				{
+					"x": -0.25,
+					"y": 1.3750000000000002,
+					"z": -0.6875
+				},
+				{
+					"x": -0.25,
+					"y": 1.3750000000000002,
+					"z": -0.75
+				},
+				{
+					"x": -0.3125,
+					"y": 1.5625,
+					"z": -0.75
+				},
+				{
+					"x": -0.3125,
+					"y": 1.5625,
+					"z": -0.6875
+				},
+				{
+					"x": -0.3125,
+					"y": 1.3750000000000002,
+					"z": -0.75
+				},
+				{
+					"x": -0.3125,
+					"y": 1.3750000000000002,
+					"z": -0.6875
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.40625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.40625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.34375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.34375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -1,
+					"z": 0
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 23,
+							"textureCoordsIndex": 51,
+							"vertexNormalIndex": 13
+						},
+						{
+							"vertexIndex": 21,
+							"textureCoordsIndex": 50,
+							"vertexNormalIndex": 13
+						},
+						{
+							"vertexIndex": 18,
+							"textureCoordsIndex": 49,
+							"vertexNormalIndex": 13
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 20,
+							"textureCoordsIndex": 52,
+							"vertexNormalIndex": 13
+						},
+						{
+							"vertexIndex": 23,
+							"textureCoordsIndex": 51,
+							"vertexNormalIndex": 13
+						},
+						{
+							"vertexIndex": 18,
+							"textureCoordsIndex": 49,
+							"vertexNormalIndex": 13
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 20,
+							"textureCoordsIndex": 55,
+							"vertexNormalIndex": 14
+						},
+						{
+							"vertexIndex": 18,
+							"textureCoordsIndex": 54,
+							"vertexNormalIndex": 14
+						},
+						{
+							"vertexIndex": 17,
+							"textureCoordsIndex": 53,
+							"vertexNormalIndex": 14
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 19,
+							"textureCoordsIndex": 56,
+							"vertexNormalIndex": 14
+						},
+						{
+							"vertexIndex": 20,
+							"textureCoordsIndex": 55,
+							"vertexNormalIndex": 14
+						},
+						{
+							"vertexIndex": 17,
+							"textureCoordsIndex": 53,
+							"vertexNormalIndex": 14
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 19,
+							"textureCoordsIndex": 59,
+							"vertexNormalIndex": 15
+						},
+						{
+							"vertexIndex": 17,
+							"textureCoordsIndex": 58,
+							"vertexNormalIndex": 15
+						},
+						{
+							"vertexIndex": 22,
+							"textureCoordsIndex": 57,
+							"vertexNormalIndex": 15
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 24,
+							"textureCoordsIndex": 60,
+							"vertexNormalIndex": 15
+						},
+						{
+							"vertexIndex": 19,
+							"textureCoordsIndex": 59,
+							"vertexNormalIndex": 15
+						},
+						{
+							"vertexIndex": 22,
+							"textureCoordsIndex": 57,
+							"vertexNormalIndex": 15
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 24,
+							"textureCoordsIndex": 63,
+							"vertexNormalIndex": 16
+						},
+						{
+							"vertexIndex": 22,
+							"textureCoordsIndex": 62,
+							"vertexNormalIndex": 16
+						},
+						{
+							"vertexIndex": 21,
+							"textureCoordsIndex": 61,
+							"vertexNormalIndex": 16
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 23,
+							"textureCoordsIndex": 64,
+							"vertexNormalIndex": 16
+						},
+						{
+							"vertexIndex": 24,
+							"textureCoordsIndex": 63,
+							"vertexNormalIndex": 16
+						},
+						{
+							"vertexIndex": 21,
+							"textureCoordsIndex": 61,
+							"vertexNormalIndex": 16
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 17,
+							"textureCoordsIndex": 67,
+							"vertexNormalIndex": 17
+						},
+						{
+							"vertexIndex": 18,
+							"textureCoordsIndex": 66,
+							"vertexNormalIndex": 17
+						},
+						{
+							"vertexIndex": 21,
+							"textureCoordsIndex": 65,
+							"vertexNormalIndex": 17
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 22,
+							"textureCoordsIndex": 68,
+							"vertexNormalIndex": 17
+						},
+						{
+							"vertexIndex": 17,
+							"textureCoordsIndex": 67,
+							"vertexNormalIndex": 17
+						},
+						{
+							"vertexIndex": 21,
+							"textureCoordsIndex": 65,
+							"vertexNormalIndex": 17
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 20,
+							"textureCoordsIndex": 71,
+							"vertexNormalIndex": 18
+						},
+						{
+							"vertexIndex": 19,
+							"textureCoordsIndex": 70,
+							"vertexNormalIndex": 18
+						},
+						{
+							"vertexIndex": 24,
+							"textureCoordsIndex": 69,
+							"vertexNormalIndex": 18
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 23,
+							"textureCoordsIndex": 72,
+							"vertexNormalIndex": 18
+						},
+						{
+							"vertexIndex": 20,
+							"textureCoordsIndex": 71,
+							"vertexNormalIndex": 18
+						},
+						{
+							"vertexIndex": 24,
+							"textureCoordsIndex": 69,
+							"vertexNormalIndex": 18
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "head",
+			"vertices": [
+				{
+					"x": 0.3125,
+					"y": 1.5625,
+					"z": -0.6875
+				},
+				{
+					"x": 0.3125,
+					"y": 1.5625,
+					"z": -0.75
+				},
+				{
+					"x": 0.3125,
+					"y": 1.3750000000000002,
+					"z": -0.6875
+				},
+				{
+					"x": 0.3125,
+					"y": 1.3750000000000002,
+					"z": -0.75
+				},
+				{
+					"x": 0.25,
+					"y": 1.5625,
+					"z": -0.75
+				},
+				{
+					"x": 0.25,
+					"y": 1.5625,
+					"z": -0.6875
+				},
+				{
+					"x": 0.25,
+					"y": 1.3750000000000002,
+					"z": -0.75
+				},
+				{
+					"x": 0.25,
+					"y": 1.3750000000000002,
+					"z": -0.6875
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.40625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.40625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.34375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.34375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.359375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 1,
+					"w": 0
+				},
+				{
+					"u": 0.390625,
+					"v": 0.96875,
+					"w": 0
+				},
+				{
+					"u": 0.375,
+					"v": 0.96875,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -1,
+					"z": 0
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 31,
+							"textureCoordsIndex": 75,
+							"vertexNormalIndex": 19
+						},
+						{
+							"vertexIndex": 29,
+							"textureCoordsIndex": 74,
+							"vertexNormalIndex": 19
+						},
+						{
+							"vertexIndex": 26,
+							"textureCoordsIndex": 73,
+							"vertexNormalIndex": 19
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 28,
+							"textureCoordsIndex": 76,
+							"vertexNormalIndex": 19
+						},
+						{
+							"vertexIndex": 31,
+							"textureCoordsIndex": 75,
+							"vertexNormalIndex": 19
+						},
+						{
+							"vertexIndex": 26,
+							"textureCoordsIndex": 73,
+							"vertexNormalIndex": 19
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 28,
+							"textureCoordsIndex": 79,
+							"vertexNormalIndex": 20
+						},
+						{
+							"vertexIndex": 26,
+							"textureCoordsIndex": 78,
+							"vertexNormalIndex": 20
+						},
+						{
+							"vertexIndex": 25,
+							"textureCoordsIndex": 77,
+							"vertexNormalIndex": 20
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 27,
+							"textureCoordsIndex": 80,
+							"vertexNormalIndex": 20
+						},
+						{
+							"vertexIndex": 28,
+							"textureCoordsIndex": 79,
+							"vertexNormalIndex": 20
+						},
+						{
+							"vertexIndex": 25,
+							"textureCoordsIndex": 77,
+							"vertexNormalIndex": 20
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 27,
+							"textureCoordsIndex": 83,
+							"vertexNormalIndex": 21
+						},
+						{
+							"vertexIndex": 25,
+							"textureCoordsIndex": 82,
+							"vertexNormalIndex": 21
+						},
+						{
+							"vertexIndex": 30,
+							"textureCoordsIndex": 81,
+							"vertexNormalIndex": 21
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 32,
+							"textureCoordsIndex": 84,
+							"vertexNormalIndex": 21
+						},
+						{
+							"vertexIndex": 27,
+							"textureCoordsIndex": 83,
+							"vertexNormalIndex": 21
+						},
+						{
+							"vertexIndex": 30,
+							"textureCoordsIndex": 81,
+							"vertexNormalIndex": 21
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 32,
+							"textureCoordsIndex": 87,
+							"vertexNormalIndex": 22
+						},
+						{
+							"vertexIndex": 30,
+							"textureCoordsIndex": 86,
+							"vertexNormalIndex": 22
+						},
+						{
+							"vertexIndex": 29,
+							"textureCoordsIndex": 85,
+							"vertexNormalIndex": 22
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 31,
+							"textureCoordsIndex": 88,
+							"vertexNormalIndex": 22
+						},
+						{
+							"vertexIndex": 32,
+							"textureCoordsIndex": 87,
+							"vertexNormalIndex": 22
+						},
+						{
+							"vertexIndex": 29,
+							"textureCoordsIndex": 85,
+							"vertexNormalIndex": 22
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 25,
+							"textureCoordsIndex": 91,
+							"vertexNormalIndex": 23
+						},
+						{
+							"vertexIndex": 26,
+							"textureCoordsIndex": 90,
+							"vertexNormalIndex": 23
+						},
+						{
+							"vertexIndex": 29,
+							"textureCoordsIndex": 89,
+							"vertexNormalIndex": 23
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 30,
+							"textureCoordsIndex": 92,
+							"vertexNormalIndex": 23
+						},
+						{
+							"vertexIndex": 25,
+							"textureCoordsIndex": 91,
+							"vertexNormalIndex": 23
+						},
+						{
+							"vertexIndex": 29,
+							"textureCoordsIndex": 89,
+							"vertexNormalIndex": 23
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 28,
+							"textureCoordsIndex": 95,
+							"vertexNormalIndex": 24
+						},
+						{
+							"vertexIndex": 27,
+							"textureCoordsIndex": 94,
+							"vertexNormalIndex": 24
+						},
+						{
+							"vertexIndex": 32,
+							"textureCoordsIndex": 93,
+							"vertexNormalIndex": 24
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 31,
+							"textureCoordsIndex": 96,
+							"vertexNormalIndex": 24
+						},
+						{
+							"vertexIndex": 28,
+							"textureCoordsIndex": 95,
+							"vertexNormalIndex": 24
+						},
+						{
+							"vertexIndex": 32,
+							"textureCoordsIndex": 93,
+							"vertexNormalIndex": 24
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "body",
+			"vertices": [
+				{
+					"x": 0.375,
+					"y": 1.3750000000000002,
+					"z": -0.5
+				},
+				{
+					"x": 0.375,
+					"y": 0.7500000000000002,
+					"z": -0.5
+				},
+				{
+					"x": 0.375,
+					"y": 1.375,
+					"z": 0.625
+				},
+				{
+					"x": 0.375,
+					"y": 0.75,
+					"z": 0.625
+				},
+				{
+					"x": -0.375,
+					"y": 0.7500000000000002,
+					"z": -0.5
+				},
+				{
+					"x": -0.375,
+					"y": 1.3750000000000002,
+					"z": -0.5
+				},
+				{
+					"x": -0.375,
+					"y": 0.75,
+					"z": 0.625
+				},
+				{
+					"x": -0.375,
+					"y": 1.375,
+					"z": 0.625
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.625,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.78125,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.625,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.78125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.96875,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.78125,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.78125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.96875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.28125,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.28125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.625,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.4375,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.625,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.8125,
+					"v": 0.875,
+					"w": 0
+				},
+				{
+					"u": 0.8125,
+					"v": 0.5625,
+					"w": 0
+				},
+				{
+					"u": 0.625,
+					"v": 0.5625,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": -1,
+					"z": -2.220446049250313e-16
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 2.220446049250313e-16
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 2.220446049250313e-16,
+					"z": -1
+				},
+				{
+					"x": 0,
+					"y": -2.220446049250313e-16,
+					"z": 1
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 39,
+							"textureCoordsIndex": 99,
+							"vertexNormalIndex": 25
+						},
+						{
+							"vertexIndex": 37,
+							"textureCoordsIndex": 98,
+							"vertexNormalIndex": 25
+						},
+						{
+							"vertexIndex": 34,
+							"textureCoordsIndex": 97,
+							"vertexNormalIndex": 25
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 36,
+							"textureCoordsIndex": 100,
+							"vertexNormalIndex": 25
+						},
+						{
+							"vertexIndex": 39,
+							"textureCoordsIndex": 99,
+							"vertexNormalIndex": 25
+						},
+						{
+							"vertexIndex": 34,
+							"textureCoordsIndex": 97,
+							"vertexNormalIndex": 25
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 36,
+							"textureCoordsIndex": 103,
+							"vertexNormalIndex": 26
+						},
+						{
+							"vertexIndex": 34,
+							"textureCoordsIndex": 102,
+							"vertexNormalIndex": 26
+						},
+						{
+							"vertexIndex": 33,
+							"textureCoordsIndex": 101,
+							"vertexNormalIndex": 26
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 35,
+							"textureCoordsIndex": 104,
+							"vertexNormalIndex": 26
+						},
+						{
+							"vertexIndex": 36,
+							"textureCoordsIndex": 103,
+							"vertexNormalIndex": 26
+						},
+						{
+							"vertexIndex": 33,
+							"textureCoordsIndex": 101,
+							"vertexNormalIndex": 26
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 35,
+							"textureCoordsIndex": 107,
+							"vertexNormalIndex": 27
+						},
+						{
+							"vertexIndex": 33,
+							"textureCoordsIndex": 106,
+							"vertexNormalIndex": 27
+						},
+						{
+							"vertexIndex": 38,
+							"textureCoordsIndex": 105,
+							"vertexNormalIndex": 27
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 40,
+							"textureCoordsIndex": 108,
+							"vertexNormalIndex": 27
+						},
+						{
+							"vertexIndex": 35,
+							"textureCoordsIndex": 107,
+							"vertexNormalIndex": 27
+						},
+						{
+							"vertexIndex": 38,
+							"textureCoordsIndex": 105,
+							"vertexNormalIndex": 27
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 40,
+							"textureCoordsIndex": 111,
+							"vertexNormalIndex": 28
+						},
+						{
+							"vertexIndex": 38,
+							"textureCoordsIndex": 110,
+							"vertexNormalIndex": 28
+						},
+						{
+							"vertexIndex": 37,
+							"textureCoordsIndex": 109,
+							"vertexNormalIndex": 28
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 39,
+							"textureCoordsIndex": 112,
+							"vertexNormalIndex": 28
+						},
+						{
+							"vertexIndex": 40,
+							"textureCoordsIndex": 111,
+							"vertexNormalIndex": 28
+						},
+						{
+							"vertexIndex": 37,
+							"textureCoordsIndex": 109,
+							"vertexNormalIndex": 28
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 33,
+							"textureCoordsIndex": 115,
+							"vertexNormalIndex": 29
+						},
+						{
+							"vertexIndex": 34,
+							"textureCoordsIndex": 114,
+							"vertexNormalIndex": 29
+						},
+						{
+							"vertexIndex": 37,
+							"textureCoordsIndex": 113,
+							"vertexNormalIndex": 29
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 38,
+							"textureCoordsIndex": 116,
+							"vertexNormalIndex": 29
+						},
+						{
+							"vertexIndex": 33,
+							"textureCoordsIndex": 115,
+							"vertexNormalIndex": 29
+						},
+						{
+							"vertexIndex": 37,
+							"textureCoordsIndex": 113,
+							"vertexNormalIndex": 29
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 36,
+							"textureCoordsIndex": 119,
+							"vertexNormalIndex": 30
+						},
+						{
+							"vertexIndex": 35,
+							"textureCoordsIndex": 118,
+							"vertexNormalIndex": 30
+						},
+						{
+							"vertexIndex": 40,
+							"textureCoordsIndex": 117,
+							"vertexNormalIndex": 30
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 39,
+							"textureCoordsIndex": 120,
+							"vertexNormalIndex": 30
+						},
+						{
+							"vertexIndex": 36,
+							"textureCoordsIndex": 119,
+							"vertexNormalIndex": 30
+						},
+						{
+							"vertexIndex": 40,
+							"textureCoordsIndex": 117,
+							"vertexNormalIndex": 30
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "leg0",
+			"vertices": [
+				{
+					"x": -0.125,
+					"y": 0.75,
+					"z": 0.5625
+				},
+				{
+					"x": -0.125,
+					"y": 0.75,
+					"z": 0.3125
+				},
+				{
+					"x": -0.125,
+					"y": 0,
+					"z": 0.5625
+				},
+				{
+					"x": -0.125,
+					"y": 0,
+					"z": 0.3125
+				},
+				{
+					"x": -0.375,
+					"y": 0.75,
+					"z": 0.3125
+				},
+				{
+					"x": -0.375,
+					"y": 0.75,
+					"z": 0.5625
+				},
+				{
+					"x": -0.375,
+					"y": 0,
+					"z": 0.3125
+				},
+				{
+					"x": -0.375,
+					"y": 0,
+					"z": 0.5625
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -1,
+					"z": 0
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 47,
+							"textureCoordsIndex": 123,
+							"vertexNormalIndex": 31
+						},
+						{
+							"vertexIndex": 45,
+							"textureCoordsIndex": 122,
+							"vertexNormalIndex": 31
+						},
+						{
+							"vertexIndex": 42,
+							"textureCoordsIndex": 121,
+							"vertexNormalIndex": 31
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 44,
+							"textureCoordsIndex": 124,
+							"vertexNormalIndex": 31
+						},
+						{
+							"vertexIndex": 47,
+							"textureCoordsIndex": 123,
+							"vertexNormalIndex": 31
+						},
+						{
+							"vertexIndex": 42,
+							"textureCoordsIndex": 121,
+							"vertexNormalIndex": 31
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 44,
+							"textureCoordsIndex": 127,
+							"vertexNormalIndex": 32
+						},
+						{
+							"vertexIndex": 42,
+							"textureCoordsIndex": 126,
+							"vertexNormalIndex": 32
+						},
+						{
+							"vertexIndex": 41,
+							"textureCoordsIndex": 125,
+							"vertexNormalIndex": 32
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 43,
+							"textureCoordsIndex": 128,
+							"vertexNormalIndex": 32
+						},
+						{
+							"vertexIndex": 44,
+							"textureCoordsIndex": 127,
+							"vertexNormalIndex": 32
+						},
+						{
+							"vertexIndex": 41,
+							"textureCoordsIndex": 125,
+							"vertexNormalIndex": 32
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 43,
+							"textureCoordsIndex": 131,
+							"vertexNormalIndex": 33
+						},
+						{
+							"vertexIndex": 41,
+							"textureCoordsIndex": 130,
+							"vertexNormalIndex": 33
+						},
+						{
+							"vertexIndex": 46,
+							"textureCoordsIndex": 129,
+							"vertexNormalIndex": 33
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 48,
+							"textureCoordsIndex": 132,
+							"vertexNormalIndex": 33
+						},
+						{
+							"vertexIndex": 43,
+							"textureCoordsIndex": 131,
+							"vertexNormalIndex": 33
+						},
+						{
+							"vertexIndex": 46,
+							"textureCoordsIndex": 129,
+							"vertexNormalIndex": 33
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 48,
+							"textureCoordsIndex": 135,
+							"vertexNormalIndex": 34
+						},
+						{
+							"vertexIndex": 46,
+							"textureCoordsIndex": 134,
+							"vertexNormalIndex": 34
+						},
+						{
+							"vertexIndex": 45,
+							"textureCoordsIndex": 133,
+							"vertexNormalIndex": 34
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 47,
+							"textureCoordsIndex": 136,
+							"vertexNormalIndex": 34
+						},
+						{
+							"vertexIndex": 48,
+							"textureCoordsIndex": 135,
+							"vertexNormalIndex": 34
+						},
+						{
+							"vertexIndex": 45,
+							"textureCoordsIndex": 133,
+							"vertexNormalIndex": 34
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 41,
+							"textureCoordsIndex": 139,
+							"vertexNormalIndex": 35
+						},
+						{
+							"vertexIndex": 42,
+							"textureCoordsIndex": 138,
+							"vertexNormalIndex": 35
+						},
+						{
+							"vertexIndex": 45,
+							"textureCoordsIndex": 137,
+							"vertexNormalIndex": 35
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 46,
+							"textureCoordsIndex": 140,
+							"vertexNormalIndex": 35
+						},
+						{
+							"vertexIndex": 41,
+							"textureCoordsIndex": 139,
+							"vertexNormalIndex": 35
+						},
+						{
+							"vertexIndex": 45,
+							"textureCoordsIndex": 137,
+							"vertexNormalIndex": 35
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 44,
+							"textureCoordsIndex": 143,
+							"vertexNormalIndex": 36
+						},
+						{
+							"vertexIndex": 43,
+							"textureCoordsIndex": 142,
+							"vertexNormalIndex": 36
+						},
+						{
+							"vertexIndex": 48,
+							"textureCoordsIndex": 141,
+							"vertexNormalIndex": 36
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 47,
+							"textureCoordsIndex": 144,
+							"vertexNormalIndex": 36
+						},
+						{
+							"vertexIndex": 44,
+							"textureCoordsIndex": 143,
+							"vertexNormalIndex": 36
+						},
+						{
+							"vertexIndex": 48,
+							"textureCoordsIndex": 141,
+							"vertexNormalIndex": 36
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "leg1",
+			"vertices": [
+				{
+					"x": 0.375,
+					"y": 0.75,
+					"z": 0.5625
+				},
+				{
+					"x": 0.375,
+					"y": 0.75,
+					"z": 0.3125
+				},
+				{
+					"x": 0.375,
+					"y": 0,
+					"z": 0.5625
+				},
+				{
+					"x": 0.375,
+					"y": 0,
+					"z": 0.3125
+				},
+				{
+					"x": 0.125,
+					"y": 0.75,
+					"z": 0.3125
+				},
+				{
+					"x": 0.125,
+					"y": 0.75,
+					"z": 0.5625
+				},
+				{
+					"x": 0.125,
+					"y": 0,
+					"z": 0.3125
+				},
+				{
+					"x": 0.125,
+					"y": 0,
+					"z": 0.5625
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -1,
+					"z": 0
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 55,
+							"textureCoordsIndex": 147,
+							"vertexNormalIndex": 37
+						},
+						{
+							"vertexIndex": 53,
+							"textureCoordsIndex": 146,
+							"vertexNormalIndex": 37
+						},
+						{
+							"vertexIndex": 50,
+							"textureCoordsIndex": 145,
+							"vertexNormalIndex": 37
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 52,
+							"textureCoordsIndex": 148,
+							"vertexNormalIndex": 37
+						},
+						{
+							"vertexIndex": 55,
+							"textureCoordsIndex": 147,
+							"vertexNormalIndex": 37
+						},
+						{
+							"vertexIndex": 50,
+							"textureCoordsIndex": 145,
+							"vertexNormalIndex": 37
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 52,
+							"textureCoordsIndex": 151,
+							"vertexNormalIndex": 38
+						},
+						{
+							"vertexIndex": 50,
+							"textureCoordsIndex": 150,
+							"vertexNormalIndex": 38
+						},
+						{
+							"vertexIndex": 49,
+							"textureCoordsIndex": 149,
+							"vertexNormalIndex": 38
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 51,
+							"textureCoordsIndex": 152,
+							"vertexNormalIndex": 38
+						},
+						{
+							"vertexIndex": 52,
+							"textureCoordsIndex": 151,
+							"vertexNormalIndex": 38
+						},
+						{
+							"vertexIndex": 49,
+							"textureCoordsIndex": 149,
+							"vertexNormalIndex": 38
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 51,
+							"textureCoordsIndex": 155,
+							"vertexNormalIndex": 39
+						},
+						{
+							"vertexIndex": 49,
+							"textureCoordsIndex": 154,
+							"vertexNormalIndex": 39
+						},
+						{
+							"vertexIndex": 54,
+							"textureCoordsIndex": 153,
+							"vertexNormalIndex": 39
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 56,
+							"textureCoordsIndex": 156,
+							"vertexNormalIndex": 39
+						},
+						{
+							"vertexIndex": 51,
+							"textureCoordsIndex": 155,
+							"vertexNormalIndex": 39
+						},
+						{
+							"vertexIndex": 54,
+							"textureCoordsIndex": 153,
+							"vertexNormalIndex": 39
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 56,
+							"textureCoordsIndex": 159,
+							"vertexNormalIndex": 40
+						},
+						{
+							"vertexIndex": 54,
+							"textureCoordsIndex": 158,
+							"vertexNormalIndex": 40
+						},
+						{
+							"vertexIndex": 53,
+							"textureCoordsIndex": 157,
+							"vertexNormalIndex": 40
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 55,
+							"textureCoordsIndex": 160,
+							"vertexNormalIndex": 40
+						},
+						{
+							"vertexIndex": 56,
+							"textureCoordsIndex": 159,
+							"vertexNormalIndex": 40
+						},
+						{
+							"vertexIndex": 53,
+							"textureCoordsIndex": 157,
+							"vertexNormalIndex": 40
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 49,
+							"textureCoordsIndex": 163,
+							"vertexNormalIndex": 41
+						},
+						{
+							"vertexIndex": 50,
+							"textureCoordsIndex": 162,
+							"vertexNormalIndex": 41
+						},
+						{
+							"vertexIndex": 53,
+							"textureCoordsIndex": 161,
+							"vertexNormalIndex": 41
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 54,
+							"textureCoordsIndex": 164,
+							"vertexNormalIndex": 41
+						},
+						{
+							"vertexIndex": 49,
+							"textureCoordsIndex": 163,
+							"vertexNormalIndex": 41
+						},
+						{
+							"vertexIndex": 53,
+							"textureCoordsIndex": 161,
+							"vertexNormalIndex": 41
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 52,
+							"textureCoordsIndex": 167,
+							"vertexNormalIndex": 42
+						},
+						{
+							"vertexIndex": 51,
+							"textureCoordsIndex": 166,
+							"vertexNormalIndex": 42
+						},
+						{
+							"vertexIndex": 56,
+							"textureCoordsIndex": 165,
+							"vertexNormalIndex": 42
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 55,
+							"textureCoordsIndex": 168,
+							"vertexNormalIndex": 42
+						},
+						{
+							"vertexIndex": 52,
+							"textureCoordsIndex": 167,
+							"vertexNormalIndex": 42
+						},
+						{
+							"vertexIndex": 56,
+							"textureCoordsIndex": 165,
+							"vertexNormalIndex": 42
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "leg2",
+			"vertices": [
+				{
+					"x": -0.125,
+					"y": 0.75,
+					"z": -0.1875
+				},
+				{
+					"x": -0.125,
+					"y": 0.75,
+					"z": -0.4375
+				},
+				{
+					"x": -0.125,
+					"y": 0,
+					"z": -0.1875
+				},
+				{
+					"x": -0.125,
+					"y": 0,
+					"z": -0.4375
+				},
+				{
+					"x": -0.375,
+					"y": 0.75,
+					"z": -0.4375
+				},
+				{
+					"x": -0.375,
+					"y": 0.75,
+					"z": -0.1875
+				},
+				{
+					"x": -0.375,
+					"y": 0,
+					"z": -0.4375
+				},
+				{
+					"x": -0.375,
+					"y": 0,
+					"z": -0.1875
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -1,
+					"z": 0
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 63,
+							"textureCoordsIndex": 171,
+							"vertexNormalIndex": 43
+						},
+						{
+							"vertexIndex": 61,
+							"textureCoordsIndex": 170,
+							"vertexNormalIndex": 43
+						},
+						{
+							"vertexIndex": 58,
+							"textureCoordsIndex": 169,
+							"vertexNormalIndex": 43
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 60,
+							"textureCoordsIndex": 172,
+							"vertexNormalIndex": 43
+						},
+						{
+							"vertexIndex": 63,
+							"textureCoordsIndex": 171,
+							"vertexNormalIndex": 43
+						},
+						{
+							"vertexIndex": 58,
+							"textureCoordsIndex": 169,
+							"vertexNormalIndex": 43
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 60,
+							"textureCoordsIndex": 175,
+							"vertexNormalIndex": 44
+						},
+						{
+							"vertexIndex": 58,
+							"textureCoordsIndex": 174,
+							"vertexNormalIndex": 44
+						},
+						{
+							"vertexIndex": 57,
+							"textureCoordsIndex": 173,
+							"vertexNormalIndex": 44
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 59,
+							"textureCoordsIndex": 176,
+							"vertexNormalIndex": 44
+						},
+						{
+							"vertexIndex": 60,
+							"textureCoordsIndex": 175,
+							"vertexNormalIndex": 44
+						},
+						{
+							"vertexIndex": 57,
+							"textureCoordsIndex": 173,
+							"vertexNormalIndex": 44
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 59,
+							"textureCoordsIndex": 179,
+							"vertexNormalIndex": 45
+						},
+						{
+							"vertexIndex": 57,
+							"textureCoordsIndex": 178,
+							"vertexNormalIndex": 45
+						},
+						{
+							"vertexIndex": 62,
+							"textureCoordsIndex": 177,
+							"vertexNormalIndex": 45
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 64,
+							"textureCoordsIndex": 180,
+							"vertexNormalIndex": 45
+						},
+						{
+							"vertexIndex": 59,
+							"textureCoordsIndex": 179,
+							"vertexNormalIndex": 45
+						},
+						{
+							"vertexIndex": 62,
+							"textureCoordsIndex": 177,
+							"vertexNormalIndex": 45
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 64,
+							"textureCoordsIndex": 183,
+							"vertexNormalIndex": 46
+						},
+						{
+							"vertexIndex": 62,
+							"textureCoordsIndex": 182,
+							"vertexNormalIndex": 46
+						},
+						{
+							"vertexIndex": 61,
+							"textureCoordsIndex": 181,
+							"vertexNormalIndex": 46
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 63,
+							"textureCoordsIndex": 184,
+							"vertexNormalIndex": 46
+						},
+						{
+							"vertexIndex": 64,
+							"textureCoordsIndex": 183,
+							"vertexNormalIndex": 46
+						},
+						{
+							"vertexIndex": 61,
+							"textureCoordsIndex": 181,
+							"vertexNormalIndex": 46
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 57,
+							"textureCoordsIndex": 187,
+							"vertexNormalIndex": 47
+						},
+						{
+							"vertexIndex": 58,
+							"textureCoordsIndex": 186,
+							"vertexNormalIndex": 47
+						},
+						{
+							"vertexIndex": 61,
+							"textureCoordsIndex": 185,
+							"vertexNormalIndex": 47
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 62,
+							"textureCoordsIndex": 188,
+							"vertexNormalIndex": 47
+						},
+						{
+							"vertexIndex": 57,
+							"textureCoordsIndex": 187,
+							"vertexNormalIndex": 47
+						},
+						{
+							"vertexIndex": 61,
+							"textureCoordsIndex": 185,
+							"vertexNormalIndex": 47
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 60,
+							"textureCoordsIndex": 191,
+							"vertexNormalIndex": 48
+						},
+						{
+							"vertexIndex": 59,
+							"textureCoordsIndex": 190,
+							"vertexNormalIndex": 48
+						},
+						{
+							"vertexIndex": 64,
+							"textureCoordsIndex": 189,
+							"vertexNormalIndex": 48
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 63,
+							"textureCoordsIndex": 192,
+							"vertexNormalIndex": 48
+						},
+						{
+							"vertexIndex": 60,
+							"textureCoordsIndex": 191,
+							"vertexNormalIndex": 48
+						},
+						{
+							"vertexIndex": 64,
+							"textureCoordsIndex": 189,
+							"vertexNormalIndex": 48
+						}
+					]
+				}
+			],
+			"lines": []
+		},
+		{
+			"name": "leg3",
+			"vertices": [
+				{
+					"x": 0.375,
+					"y": 0.75,
+					"z": -0.1875
+				},
+				{
+					"x": 0.375,
+					"y": 0.75,
+					"z": -0.4375
+				},
+				{
+					"x": 0.375,
+					"y": 0,
+					"z": -0.1875
+				},
+				{
+					"x": 0.375,
+					"y": 0,
+					"z": -0.4375
+				},
+				{
+					"x": 0.125,
+					"y": 0.75,
+					"z": -0.4375
+				},
+				{
+					"x": 0.125,
+					"y": 0.75,
+					"z": -0.1875
+				},
+				{
+					"x": 0.125,
+					"y": 0,
+					"z": -0.4375
+				},
+				{
+					"x": 0.125,
+					"y": 0,
+					"z": -0.1875
+				}
+			],
+			"textureCoords": [
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.25,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.0625,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.5,
+					"w": 0
+				},
+				{
+					"u": 0.1875,
+					"v": 0.375,
+					"w": 0
+				},
+				{
+					"u": 0.125,
+					"v": 0.375,
+					"w": 0
+				}
+			],
+			"vertexNormals": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -1,
+					"z": 0
+				}
+			],
+			"faces": [
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 71,
+							"textureCoordsIndex": 195,
+							"vertexNormalIndex": 49
+						},
+						{
+							"vertexIndex": 69,
+							"textureCoordsIndex": 194,
+							"vertexNormalIndex": 49
+						},
+						{
+							"vertexIndex": 66,
+							"textureCoordsIndex": 193,
+							"vertexNormalIndex": 49
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 68,
+							"textureCoordsIndex": 196,
+							"vertexNormalIndex": 49
+						},
+						{
+							"vertexIndex": 71,
+							"textureCoordsIndex": 195,
+							"vertexNormalIndex": 49
+						},
+						{
+							"vertexIndex": 66,
+							"textureCoordsIndex": 193,
+							"vertexNormalIndex": 49
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 68,
+							"textureCoordsIndex": 199,
+							"vertexNormalIndex": 50
+						},
+						{
+							"vertexIndex": 66,
+							"textureCoordsIndex": 198,
+							"vertexNormalIndex": 50
+						},
+						{
+							"vertexIndex": 65,
+							"textureCoordsIndex": 197,
+							"vertexNormalIndex": 50
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 67,
+							"textureCoordsIndex": 200,
+							"vertexNormalIndex": 50
+						},
+						{
+							"vertexIndex": 68,
+							"textureCoordsIndex": 199,
+							"vertexNormalIndex": 50
+						},
+						{
+							"vertexIndex": 65,
+							"textureCoordsIndex": 197,
+							"vertexNormalIndex": 50
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 67,
+							"textureCoordsIndex": 203,
+							"vertexNormalIndex": 51
+						},
+						{
+							"vertexIndex": 65,
+							"textureCoordsIndex": 202,
+							"vertexNormalIndex": 51
+						},
+						{
+							"vertexIndex": 70,
+							"textureCoordsIndex": 201,
+							"vertexNormalIndex": 51
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 72,
+							"textureCoordsIndex": 204,
+							"vertexNormalIndex": 51
+						},
+						{
+							"vertexIndex": 67,
+							"textureCoordsIndex": 203,
+							"vertexNormalIndex": 51
+						},
+						{
+							"vertexIndex": 70,
+							"textureCoordsIndex": 201,
+							"vertexNormalIndex": 51
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 72,
+							"textureCoordsIndex": 207,
+							"vertexNormalIndex": 52
+						},
+						{
+							"vertexIndex": 70,
+							"textureCoordsIndex": 206,
+							"vertexNormalIndex": 52
+						},
+						{
+							"vertexIndex": 69,
+							"textureCoordsIndex": 205,
+							"vertexNormalIndex": 52
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 71,
+							"textureCoordsIndex": 208,
+							"vertexNormalIndex": 52
+						},
+						{
+							"vertexIndex": 72,
+							"textureCoordsIndex": 207,
+							"vertexNormalIndex": 52
+						},
+						{
+							"vertexIndex": 69,
+							"textureCoordsIndex": 205,
+							"vertexNormalIndex": 52
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 65,
+							"textureCoordsIndex": 211,
+							"vertexNormalIndex": 53
+						},
+						{
+							"vertexIndex": 66,
+							"textureCoordsIndex": 210,
+							"vertexNormalIndex": 53
+						},
+						{
+							"vertexIndex": 69,
+							"textureCoordsIndex": 209,
+							"vertexNormalIndex": 53
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 70,
+							"textureCoordsIndex": 212,
+							"vertexNormalIndex": 53
+						},
+						{
+							"vertexIndex": 65,
+							"textureCoordsIndex": 211,
+							"vertexNormalIndex": 53
+						},
+						{
+							"vertexIndex": 69,
+							"textureCoordsIndex": 209,
+							"vertexNormalIndex": 53
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 68,
+							"textureCoordsIndex": 215,
+							"vertexNormalIndex": 54
+						},
+						{
+							"vertexIndex": 67,
+							"textureCoordsIndex": 214,
+							"vertexNormalIndex": 54
+						},
+						{
+							"vertexIndex": 72,
+							"textureCoordsIndex": 213,
+							"vertexNormalIndex": 54
+						}
+					]
+				},
+				{
+					"material": "m_946c5aa4-33c7-a4ce-c3e5-a3248abc1c34",
+					"group": "",
+					"smoothingGroup": 0,
+					"vertices": [
+						{
+							"vertexIndex": 71,
+							"textureCoordsIndex": 216,
+							"vertexNormalIndex": 54
+						},
+						{
+							"vertexIndex": 68,
+							"textureCoordsIndex": 215,
+							"vertexNormalIndex": 54
+						},
+						{
+							"vertexIndex": 72,
+							"textureCoordsIndex": 213,
+							"vertexNormalIndex": 54
+						}
+					]
+				}
+			],
+			"lines": []
+		}
+	],
+	"materialLibraries": [
+		"cow.mtl"
+	]
+}
